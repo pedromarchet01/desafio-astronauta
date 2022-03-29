@@ -8,7 +8,7 @@ body{
   background-repeat: no-repeat;
 }
 
-#container{
+div#container{
   text-align: center;
   position: relative;
   width: 100%;

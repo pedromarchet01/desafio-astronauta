@@ -1,0 +1,12 @@
+body{
+  background-color: #000000;
+  background-image: url(../imagens/espaço.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+div.imagem{
+  margin-top:30px;
+  text-align: center;
+}
